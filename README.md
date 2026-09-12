@@ -1,6 +1,6 @@
 # SOC Design & XDR Threat Detection with Wazuh
 
-> **Context:** This repository showcases my individual contribution to a 4-person **group project** for the course *IT8510 – Threat Intelligence & Threat Hunting* (Bahrain Polytechnic). The full assignment required a group to design a SOC architecture and build a complete SIEM/XDR/SOAR environment. **This repo contains only the two components I personally designed and implemented**, documented here for my own portfolio.
+> **Context:** This repository showcases my individual contribution to a 4-person **group project** for the course *IT8510 – Threat Intelligence & Threat Hunting* (Bahrain Polytechnic). The full assignment required a group to design a SOC architecture and build a complete SIEM/XDR/SOAR environment. **This repo contains only the three components I personally designed and implemented**, documented here for my own portfolio.
 
 ## My Role in the Project
 
